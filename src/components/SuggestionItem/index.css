@@ -1,0 +1,15 @@
+.back {
+  display: flex;
+}
+.button {
+  height: 5vh;
+  width: 3vw;
+  background-color: #ffffff;
+  border-width: 0;
+  margin-top: 12px;
+}
+.image1 {
+  height: 3vh;
+  width: 3vh;
+  background-color: #ffffff;
+}
